@@ -1,0 +1,5 @@
+consumerKey: consumerKey
+consumerSecret: consumerSecret
+oAuthAccessToken: oAuthAccessToken
+oAuthAccessTokenSecret: oAuthAccessTokenSecret
+dateFormat: dd/MM/yyyy HH:mm:ss

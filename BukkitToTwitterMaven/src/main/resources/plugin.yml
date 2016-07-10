@@ -1,0 +1,11 @@
+name: BukkitToTwitter
+version: 1.0
+description: Post tweets to Twitter from Bukkit.
+author: xDeeKay
+main: net.dkcraft.bukkittotwitter.Main
+commands:
+    tweet:
+        description: Post a tweet.
+        usage: /tweet <string>
+        permission: bukkittotwitter.tweet
+        permission-message: You do not have permission to do that.
